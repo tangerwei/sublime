@@ -1,2 +1,6 @@
 git remote rm origin
 git remote add origin git@github.com:tangerwei/sublime.git
+sublime push:
+git:add
+git:commit
+git:push current branch
