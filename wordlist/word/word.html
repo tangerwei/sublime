@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=0, width=device-width,minimal-ui">
+        <script type="text/javascript" src="../js/jquery.min.js"></script>
+        <script type="text/javascript" src="../js/ny.js"></script>
+        <script type="text/javascript" src="word.js"></script>
+        <title>word</title>
+        <style>
+            @font-face {
+                font-family: 'FZY4JW';
+                src: url(FZY4JW.TTF);
+            }
+            
+            * {
+                margin: 0;
+                padding: 0;
+                border: none;
+            }
+            
+            .hidden {
+                display: none;
+            }
+            
+            .show {
+                display: block;
+            }
+        </style>
+    </head>
+
+    <body onload="word.init()">
+        <div id="model_1">
+            <img id="view1" style="width: 100%;height: auto;z-index: 0;" />
+            <div id="view1_detail" style="z-index: 1;color: #FFFFFF;">
+                <div id="view1_detail_label"></div>
+                <div id="view1_detail_btn">
+                    <div id="view1_btn_before" onclick="word.before()"></div>
+                    <div id="view1_page"></div>
+                    <div id="view1_btn_next" onclick="word.next()"></div>
+                </div>
+            </div>
+        </div>
+        <div id="model_2">
+            <img id="view2" src="img/wordBackground.png" onload="word.drawModel_2()" style="width: 100%;height: auto;z-index: 0;" />
+            <div id="view2_detail" style="z-index: 1;">
+                <div id="view2_detail_label"></div>
+                <div id="view2_detail_btn">
+                    <div id="view2_btn_before" onclick="word.before()"></div>
+                    <div id="view2_page"></div>
+                    <div id="view2_btn_next" onclick="word.next()"></div>
+                </div>
+            </div>
+        </div>
+        <div id="model_3">
+            <img id="view3" src="img/mode3_backgoround.png" onload="word.drawModel_3()" style="width: 100%;height: auto;z-index: 0;" />
+            <div id="view3_detail" style="z-index: 1;">
+                <div id="view3_detail_ro1">
+                    <div id="view3_img"></div>
+                    <div id="view3_words">
+                        <div id="view3_word"></div>
+                        <div id="view3_word_pru"></div>
+                        <div id="view3_word_ex"></div>
+                    </div>
+                </div>
+                <div id="view3_detail_ro2"></div>
+                <div id="view3_detail_ro3">
+                    <div id="btn_before" onclick="word.before()"></div>
+                    <div id="view3_page"></div>
+                    <div id="btn_next" onclick="word.next()"></div>
+                </div>
+            </div>
+            <div id="voiceAudio" style="display: none;"></div>
+        </div>
+    </body>
+
+</html>

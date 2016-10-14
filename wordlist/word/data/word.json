@@ -1,0 +1,262 @@
+{
+	"alphabet":{
+		"cx":["n. 字母表"],
+		"pronu":"[ˈælfəˌbɛt]",
+		"eg":{
+			"en":"The English alphabet has 26 letters.",
+			"zh":"英语字母表有26个字母。"
+		},
+		"pic":"data/wordpic/alphabet.jpg",
+		"voice":"voice/alphabet.mp3"
+	},
+	"number":{
+		"cx":["n. 号码"],
+		"pronu":"[ˈnʌmbɚ]",
+		"eg":{
+			"en":"What's your number?",
+			"zh":"你的号码是多少？"
+		},
+		"pic":"data/wordpic/number.jpg",
+		"voice":"voice/number.mp3"
+	},
+	"telephone number":{
+		"cx":["n. 电话号码"],
+		"pronu":"[ˈtɛləˌfon ˈnʌmbɚ]",
+		"eg":{
+			"en":"What's your telephone number?",
+			"zh":"你的电话号码是多少？"
+		},
+		"pic":"data/wordpic/telephoneNumber.jpg",
+		"voice":"voice/telephoneNumber.mp3"
+	},
+	"phone number":{
+		"cx":["n. 电话号码"],
+		"pronu":"[fon ˈnʌmbɚ]",
+		"eg":{
+			"en":"My phone number is …",
+			"zh":"我的电话号码是…"
+		},
+		"pic":"data/wordpic/phoneNumber.jpg",
+		"voice":"voice/phoneNumber.mp3"
+	},
+	"apartment number":{
+		"cx":["n. 住宅号码"],
+		"pronu":"[əˈpɑ:rtmənt ˈnʌmbɚ] ",
+		"eg":{
+			"en":"What's your apartment number?",
+			"zh":"你的公寓号码是多少？"
+		},
+		"pic":"data/wordpic/apartmentNumber.jpg",
+		"voice":"voice/apartmentNumber.mp3"
+	},
+	"license number":{
+		"cx":["n. 车牌号码"],
+		"pronu":"[ˈlaɪsəns ˈnʌmbɚ]",
+		"eg":{
+			"en":"What's your license number?",
+			"zh":"你的车牌号码是多少？"
+		},
+		"pic":"data/wordpic/licenseNumber.jpg",
+		"voice":"voice/licenseNumber.mp3"
+	},
+	"Social Security number":{
+		"cx":["n. 社会安全号码"],
+		"pronu":"[ˈsoʃəl sɪˈkjʊrɪtiˈnʌmbɚ] ",
+		"eg":{
+			"en":"My social security number is 32422",
+			"zh":"我的社会安全号码是32422。"
+		},
+		"pic":"data/wordpic/socialSecurityNumber.jpg",
+		"voice":"voice/socialSecurityNumber.mp3"
+	},
+	"name":{
+		"cx":["n. 名字"],
+		"pronu":"[nem] ",
+		"eg":{
+			"en":"What's your name?",
+			"zh":"你叫什么名字？"
+		},
+		"pic":"data/wordpic/name.jpg",
+		"voice":"voice/name.mp3"
+	},
+	"first name":{
+		"cx":["n. （西方人名的第一个字） 名"],
+		"pronu":"[fɚst nem] ",
+		"eg":{
+			"en":"What's your first name?",
+			"zh":"你的名是什么？"
+		},
+		"pic":"data/wordpic/firstName.jpg",
+		"voice":"voice/firstName.mp3"
+	},
+	"last name":{
+		"cx":["n. （欧美人放在名字后面的）姓"],
+		"pronu":"[læst nem] ",
+		"eg":{
+			"en":"What's your last name?",
+			"zh":"你的姓是什么？"
+		},
+		"pic":"data/wordpic/lastName.jpg",
+		"voice":"voice/lastName.mp3"
+	},
+	"full name":{
+		"cx":["n. 全名"],
+		"pronu":"[fʊl nem] ",
+		"eg":{
+			"en":"My full name is Mary Taylor.",
+			"zh":"我的全名是玛丽 泰勒。"
+		},
+		"pic":"data/wordpic/fullName.jpg",
+		"voice":"voice/fullName.mp3"
+	},
+	"address":{
+		"cx":["n. 地址"],
+		"pronu":"[ˈædres] ",
+		"eg":{
+			"en":"My address is 253 Main Street.",
+			"zh":"我的地址是曼恩大街235号。"
+		},
+		"pic":"data/wordpic/address.jpg",
+		"voice":"voice/address.mp3"
+	},
+	"famous":{
+		"cx":["n. 著名的"],
+		"pronu":"[ˈfeməs] ",
+		"eg":{
+			"en":"He is a famous actor.",
+			"zh":"他是著名的男演员."
+		},
+		"pic":"data/wordpic/famous.jpg",
+		"voice":"voice/famous.mp3"
+	},
+	"actor":{
+		"cx":["n. 演员"],
+		"pronu":" [ˈæktɚ] ",
+		"eg":{
+			"en":"He was a poor actor",
+			"zh":"他是个蹩脚的演员。"
+		},
+		"pic":"data/wordpic/actor.jpg",
+		"voice":"voice/actor.mp3"
+	},
+	"actress":{
+		"cx":["n. 女演员"],
+		"pronu":"[ˈæktrɪs]",
+		"eg":{
+			"en":"She is a actress.",
+			"zh":"她是演员。"
+		},
+		"pic":"data/wordpic/actress.jpg",
+		"voice":"voice/actress.mp3"
+	},
+	"athlete":{
+		"cx":["n. 运动员"],
+		"pronu":" [ˈæθˌlit] ",
+		"eg":{
+			"en":"He is an athlete.",
+			"zh":"他是个运动员。"
+		},
+		"pic":"data/wordpic/athlete.jpg",
+		"voice":"voice/athlete.mp3"
+	},
+	"President":{
+		"cx":["n. 总统"],
+		"pronu":"[ˈprɛzɪdənt,-ˌdɛnt] ",
+		"eg":{
+			"en":"He is a President.",
+			"zh":"他是一位总统"
+		},
+		"pic":"data/wordpic/president.jpg",
+		"voice":"voice/president.mp3"
+	},
+	"nurse":{
+		"cx":["n. 护士"],
+		"pronu":" [nɜ:rs] ",
+		"eg":{
+			"en":"She is a nurse.",
+			"zh":"她是一名护士"
+		},
+		"pic":"data/wordpic/nurse.png",
+		"voice":"voice/nurse.mp3"
+	},
+	"worker":{
+		"cx":["n. 工人"],
+		"pronu":" [ˈwɜ:rkə(r)] ",
+		"eg":{
+			"en":"He is a worker .",
+			"zh":"他是一名工人"
+		},
+		"pic":"data/wordpic/worker.png",
+		"voice":"voice/worker.mp3"
+	},
+	"teacher":{
+		"cx":["n. 老师"],
+		"pronu":" [ˈtitʃɚ]",
+		"eg":{
+			"en":"She is a teacher.",
+			"zh":"她是一名老师"
+		},
+		"pic":"data/wordpic/teacher.png",
+		"voice":"voice/teacher.mp3"
+	},
+	"doctor":{
+		"cx":["n. 医生"],
+		"pronu":"[ˈdɑ:ktə(r)]",
+		"eg":{
+			"en":"I am a doctor.",
+			"zh":"我是个医生。"
+		},
+		"pic":"data/wordpic/doctor.png",
+		"voice":"voice/doctor.mp3"
+	},
+	"driver":{
+		"cx":["n. 司机"],
+		"pronu":" [ˈdraɪvɚ] ",
+		"eg":{
+			"en":"He is driver.",
+			"zh":"他是个司机。"
+		},
+		"pic":"data/wordpic/driver.png",
+		"voice":"voice/driver.mp3"
+	},
+	"farmer":{
+		"cx":["n. 农民"],
+		"pronu":" [ˈfɑ:rmə(r)]",
+		"eg":{
+			"en":"I am a farmer.",
+			"zh":"我是一个农民。"
+		},
+		"pic":"data/wordpic/farmer.png",
+		"voice":"voice/farmer.mp3"
+	},
+	"policeman":{
+		"cx":["n. 男警察"],
+		"pronu":" [pəˈlismən]",
+		"eg":{
+			"en":"He is a policeman .",
+			"zh":"他是一名男警察"
+		},
+		"pic":"data/wordpic/policeman.png",
+		"voice":"voice/policeman.mp3"
+	},
+	"policewoman":{
+		"cx":["n. 女警察"],
+		"pronu":" [pəˈlisˌwʊmən] ",
+		"eg":{
+			"en":"She is a policewoman .",
+			"zh":"她是一名女警察"
+		},
+		"pic":"data/wordpic/policewoman.png",
+		"voice":"voice/policewoman.mp3"
+	},
+	"fireman":{
+		"cx":["n. 消防队员"],
+		"pronu":"[ˈfaɪərmən] ",
+		"eg":{
+			"en":"I'm a fireman.",
+			"zh":"我是一个消防员。"
+		},
+		"pic":"data/wordpic/fireman.png",
+		"voice":"voice/fireman.mp3"
+	}
+}

@@ -1,0 +1,14 @@
+1、单词存放方式
+step1.在\word\data\list.json的list数组中添加单词，
+step2.在\word\data\word.json中添加详细属性，
+用单词作为属性名，具体属性如下：
+"alphabet":{
+		"cx":["n.字母表"],//词性及中文解释
+		"pronu":"[ˈælfəˌbɛt]",//音标
+		"eg":{
+			"en":"The English alphabet has 26 letters.",//英文例句
+			"zh":"英语字母表有26个字母。"//例句翻译
+		},
+		"pic":"data/wordpic/alphabet.jpg",//单词对应的图片
+		"voice":"voice/alphabet.mp3"//单词读音存放地址
+	}
